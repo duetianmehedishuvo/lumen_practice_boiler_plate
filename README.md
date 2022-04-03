@@ -26,8 +26,5 @@ $ php artisan key:generate
 put database credentials in .env file
 ```
 
-
-
-
 Please visit my Linkedin.
 [linkedin](https://www.linkedin.com/in/duetianmehedishuvo/)
